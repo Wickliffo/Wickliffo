@@ -45,7 +45,7 @@ I sit at the intersection of Data Engineering and Analytics, building robust pip
 - 📍 Kakamega, Kenya
 
 ---
-*“Data is a precious thing and will last longer than the systems themselves.”*## Hi there 👋
+*“Data is a precious thing and will last longer than the systems themselves."
 
 <!--
 **Wickliffo/Wickliffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
